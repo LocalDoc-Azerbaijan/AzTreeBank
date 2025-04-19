@@ -12,7 +12,7 @@ The data in AzTreeBank was collected from a variety of sources, including:
 
 ## Data Generation
 
-The annotations in AzTreeBank were generated automatically, providing a broad coverage of syntactic structures in the Azerbaijani language.
+Annotations in AzTreeBank were generated automatically using the GPT-4o model, providing wide coverage of syntactic structures of the Azerbaijani language.
 
 ## Authors
 
@@ -28,8 +28,7 @@ The corpus is entirely in Azerbaijani.
 
 ## Statistics
 
-- **Sentences:** 75,225
-- **Tokens:** 1,167,589
+- **Sentences:** 94,246
 
 ## Annotation
 
